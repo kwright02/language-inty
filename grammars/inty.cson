@@ -7,4 +7,8 @@
       'match': '[()]'
       'name': 'brackets.inty'
     },
+    {
+      'match': 'opmode:([0,1,2,3,4][^1234567890])'
+      'name': 'opmode.inty'
+    }
 ]
