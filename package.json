@@ -1,10 +1,23 @@
 {
   "name": "language-inty",
-  "version": "2.0.0",
+  "version": "0.0.0",
   "description": "Syntax highlighting for Inty language",
   "engines": {
     "atom": "*"
   },
   "dependencies": {},
-  "license": "MIT"
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kwright02/language-inty.git"
+  },
+  "author": "Kwright02",
+  "bugs": {
+    "url": "https://github.com/kwright02/language-inty/issues"
+  },
+  "homepage": "https://github.com/kwright02/language-inty#readme"
 }
