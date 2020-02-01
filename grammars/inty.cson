@@ -1,0 +1,10 @@
+'scopeName': 'source.inty'
+'name': 'Inty'
+'fileTypes': ['.ic','.inty']
+
+'patterns': [
+    {
+      'match': '[()]'
+      'name': 'brackets.inty'
+    },
+]

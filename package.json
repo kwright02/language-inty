@@ -1,0 +1,10 @@
+{
+  "name": "language-inty",
+  "version": "2.0.0",
+  "description": "Syntax highlighting for Inty language",
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {},
+  "license": "MIT"
+}
